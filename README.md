@@ -1,2 +1,2 @@
 # Projects
-This file consists a lists of projects I've completed
+This file consists a lists of projects I've done.
